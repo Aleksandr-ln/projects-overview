@@ -14,7 +14,7 @@ Projects related to web development using Python.
 ## 🎮 Game Development (C++)
 Projects related to game development using C++.
 
-1. [Blackjack Game](https://github.com/Aleksandr-In/card-game-blackjack) - A simple Blackjack game in C++.
+1. [Blackjack Game](https://github.com/Aleksandr-ln/Card-game-Blackjack) - A simple Blackjack game in C++.
 
 ---
 
