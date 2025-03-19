@@ -21,13 +21,13 @@ Projects related to game development using C++.
 ## 🛠️ Other Projects
 Other interesting projects and utilities.
 
-1. [Letters Permutation](https://github.com/Aleksandr-In/letters_permutation) - A Python script generating letter permutations.
-2. [Sorting and Input Names](https://github.com/Aleksandr-In/input-and-sorting-names) - A simple sorting algorithm.
+1. [Letters Permutation](https://github.com/Aleksandr-ln/letters_permutation) - A Python script generating letter permutations.
+2. [Sorting and Input Names](https://github.com/Aleksandr-ln/Input-and-sorting-names) - A simple sorting algorithm.
 
 ---
 
 ### ⭐ Want to Explore More?
-- Visit my **[GitHub Profile](https://github.com/Aleksandr-In)** for more projects.
+- Visit my **[GitHub Profile](https://github.com/Aleksandr-ln)** for more projects.
 - Use **GitHub Topics** to filter projects by category.
 
 📌 *This overview will be updated regularly with new projects and improvements.*  
