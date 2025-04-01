@@ -7,7 +7,7 @@ Welcome to my project hub! Here you can find an organized list of all my project
 ## 🖥️ Python Web Development
 Projects related to web development using Python.
 
-1. [Anagrams](https://github.com/Aleksandr-ln/anagrams) - The program reverses letters in each word while preserving non-letter characters and spaces.
+1. [f1-monaco-2018-report](https://github.com/Aleksandr-ln/f1-monaco-2018-report) - A Python CLI tool that parses F1 qualification logs, calculates lap times, sorts drivers by performance, and generates a formatted report.
 
 ---
 
