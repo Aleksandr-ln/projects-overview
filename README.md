@@ -8,7 +8,7 @@ Welcome to my project hub! Here you can find an organized list of all my project
 Projects related to web development using Python.
 
 1. [f1-monaco-2018-report](https://github.com/Aleksandr-ln/f1-monaco-2018-report) - A Python CLI tool that parses F1 qualification logs, calculates lap times, sorts drivers by performance, and generates a formatted report.
-2. [web-report-of-monaco-2018-f1](https://github.com/Aleksandr-ln/web-report-of-monaco-2018-f1) - Flask app that parses F1 log data and generates an interactive race report.
+2. [web-report-of-f1-monaco-2018](https://github.com/Aleksandr-ln/web-report-of-monaco-2018-f1) - Flask app that parses F1 log data and generates an interactive race report.
 
 ---
 
