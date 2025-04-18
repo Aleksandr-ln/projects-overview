@@ -10,6 +10,7 @@ Projects related to web development using Python.
 1. [f1-monaco-2018-report](https://github.com/Aleksandr-ln/f1-monaco-2018-report) - A Python CLI tool that parses F1 qualification logs, calculates lap times, sorts drivers by performance, and generates a formatted report.
 2. [web-report-of-f1-monaco-2018](https://github.com/Aleksandr-ln/web-report-of-monaco-2018-f1) - Flask app that parses F1 log data and generates an interactive race report.
 3. [rest-api-f1-race-reports](https://github.com/Aleksandr-ln/rest-api-f1-race-reports.git) - Flask REST API that generates Monaco 2018 F1 qualification reports in JSON/XML formats, with Swagger documentation and test coverage.
+4. [f1-race-results-database-api](https://github.com/Aleksandr-ln/rest-api-f1-race-db-report.git) - Flask REST API that stores and serves F1 qualification results from SQLite using Peewee ORM.
 
 ---
 
