@@ -12,6 +12,7 @@ Projects related to web development using Python.
 3. [rest-api-f1-race-reports](https://github.com/Aleksandr-ln/rest-api-f1-race-reports.git) - Flask REST API that generates Monaco 2018 F1 qualification reports in JSON/XML formats, with Swagger documentation and test coverage.
 4. [f1-race-results-database-api](https://github.com/Aleksandr-ln/rest-api-f1-race-db-report.git) - Flask REST API that stores and serves F1 qualification results from SQLite using Peewee ORM.
 5. [sql-flask-rest-api-project](https://github.com/Aleksandr-ln/edu-crm-sql-api.git) - Flask REST API for managing students, groups, and courses using PostgreSQL, SQLAlchemy, and Alembic migrations.
+6. [contentflow](https://github.com/Aleksandr-ln/contentflow) – A Django-based social media app with user profiles, image posts, tags, likes, AWS S3 integration, and production-ready deployment on EC2.
 
 ---
 
